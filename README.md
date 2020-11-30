@@ -1,19 +1,22 @@
-# CS3443 Group 11
+# Team Builder
+# Group 11
+ - David Albasini
+ - Kyler Elbert
+ - Frank Rodriguez
+ 
+## Description
 
-Welcome to Group 11's teambuilder project.
-
-- David Albasini
-- Kyler Elbert
-- Frank Rodriguez
-- Ryan Freeman
-
-Steps to install:
-
-## Purpose
-
-The purpose of this teambuilder project is to create a GUI team randomizer, with a customizable number and size of teams. Balancing options based on experience, alphabetization, or pure randomization can also be selected.
+This application sorts members into groups based on alphabetical, experience, or random ordering.
 
 ### Known bugs:
 
 - Sorting by experience doesn't work entirely optimally.
 - Choosing multiple experience levels doesn't give user feedback in GUI.
+
+## Steps to install:
+
+1. Download zip file
+2. Extract contents of zip file
+3. In eclipse, go to File > Import > General > Existing Projects into Workspace
+4. Select 'Select archive file:', then find the TeamBuilder.zip file. (CS3443Group11-main/CS3443Group11-main/TeamBuilder.zip)
+5. Select 'Finish'
