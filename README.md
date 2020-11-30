@@ -8,7 +8,11 @@
 
 This application sorts members into groups based on alphabetical, experience, or random ordering.
 
-### Known bugs:
+## Functionality
+
+The user enters size of teams, number of members total, and how to sort them. The user then enters a member name, their ID, and their experience. The members are then sorted based on the specified sort type and displayed.
+
+## Known bugs:
 
 - Sorting by experience doesn't work entirely optimally.
 - Choosing multiple experience levels doesn't give user feedback in GUI.
